@@ -1,10 +1,10 @@
-Here is a list of useful youtube links that I used for this project:
+Here is a list of useful links that I used for this project:
 
 AutoDesk Inventor Youtube Channel: https://www.youtube.com/user/AutodeskMFG/featured
 
 AutoDesk Inventor 2018 Tutorial Playlist: https://www.youtube.com/playlist?list=PL-ptF2slHtJD6xNhhCXFCxFi6Ia7B_q3L
 
-
+Motor Specs: https://www.pololu.com/product/2378/specs
 
 
 
