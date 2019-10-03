@@ -6,10 +6,9 @@ AutoDesk Inventor 2018 Tutorial Playlist: https://www.youtube.com/playlist?list=
 
 Motor Specs: https://www.pololu.com/product/2378/specs
 
-
+Inventor Joints and contraints https://www.youtube.com/watch?v=lCkyYWnUx0s
 
 
 Things to ask Dr. Clark:
-ACM tonight show
-What to work on (free time to beef up git hub and resume)
-Resume
+
+1. extension mechanism
